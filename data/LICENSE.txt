@@ -1,0 +1,15 @@
+If you use this dataset please cite our paper, which can be found here: TODO: Update link once paper is puplished
+
+Cite this article:
+TODO: Update citation once paper is puplished
+
+Data-Driven Slip Prediction in Web Processing Machines Using Virtual Sensors and Ensemble Machine Learning
+
+This dataset consists of web processing machine data obtained from an experiment setup made available by the University of Ghent. A physical web processing unit is designed and built with actuators and sensors to control the web speed and tension. Maintaining consistent web tension throughout the processing line, even under varying web speeds, is critical to ensure high product quality. The primary purpose of the unit is to emulate processes such as cutting, printing, and stamping on the web without interruption. 
+
+The data is formatted as follows:
+
+- Folder "raw": Raw data containing three runs in which three variables are independently varied: ramp time (2 s, 4 s, 6 s, 8 s), web speed (20 m/min, 30 m/min, 40 m/min, 50 m/min, 60 m/min), and web direction. 
+- Folder "processed": Processed and cleaned data after the raw data has been processed using the data_split.ipynb notebook. The processed data is already split into a train, validation and test set.
+- Folder "features": Feature folder containing the selected feature subset for either the linear model and the catboost model, which is obtained using the utils/feature_selection.py file.
+This dataset is licensed under CC BY-SA 4.0

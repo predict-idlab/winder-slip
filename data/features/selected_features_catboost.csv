@@ -1,0 +1,8 @@
+,selected_features,scores
+0,delta_traction_speed__last__w=2_next2,0.23600396761994166
+1,LoadCell2_diff__mean__w=4_next1,0.14409630567722273
+2,Motors.Traction2.Position__diff__w=2_prev2,0.11573114325019347
+3,Motors.Traction1.Setpoint__diff__w=2_prev2,0.10792810851325758
+4,LoadCell1_diff__mean__w=16,0.10079596617342303
+5,LoadCell1_diff__mean__w=4_next1,0.09623061416261465
+6,LoadCell2_diff__std__w=64,0.09452157620700365

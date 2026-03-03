@@ -1,0 +1,9 @@
+Data and time:,2024092313-48-23
+Organisation:,Jasper De Viaene
+Operator:,UGent @ FLanders Make
+Project name:,FM symposium 2022
+Test goal:,Strain stretch curve
+Winding material:,EPDM
+Adapions to set-up:,No
+Main actors:,
+Main sensors:,

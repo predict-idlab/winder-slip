@@ -1,0 +1,10 @@
+,selected_features,scores
+0,delta_traction_speed__last__w=2_next2,0.27754763893539774
+1,LoadCell2_diff__mean__w=4_next1,0.1490169444008809
+2,LoadCell2_diff__mean__w=32,0.14147653344079172
+3,LoadCell1_diff__mean__w=4,0.14016250103156544
+4,delta_traction_speed__mean__w=64,0.1401465969814677
+5,LoadCell2_diff__mean__w=8_next2,0.14014568353836726
+6,LoadCell1_diff__first__w=2_next1,0.14014505186868342
+7,LoadCell2_diff__std__w=16,0.14014501584536868
+8,LoadCell1_diff__diff__w=2_next1,0.14014496225952733
