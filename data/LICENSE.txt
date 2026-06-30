@@ -1,7 +1,7 @@
-If you use this dataset please cite our paper, which can be found here: TODO: Update link once paper is puplished
+If you use this dataset please cite our paper, which can be found here: https://www.mdpi.com/1424-8220/26/9/2878
 
 Cite this article:
-TODO: Update citation once paper is puplished
+Soete, C., Van Der Donckt, J., Vandemoortele, N., De Viaene, J., De Maeyer, J., & Van Hoecke, S. (2026). Data-Driven Slip Prediction in Web Processing Machines Using Virtual Sensors and Ensemble Machine Learning. Sensors, 26(9), 2878. https://doi.org/10.3390/s26092878
 
 Data-Driven Slip Prediction in Web Processing Machines Using Virtual Sensors and Ensemble Machine Learning
 
